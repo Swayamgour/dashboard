@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.main{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+}
+.sideNav{
+    display: flex;
+    padding: 15px;
+    gap :10px;
+    margin-left: 1rem;
+}
+.sideSearch{
+    display: flex;
+    /* padding: 15px; */
+    gap :10px;
+    /* margin-left: rem; */
+    margin-top: 1rem;
+    margin-left: 54rem;
+    border: none;
+    height: 20px;
+   
+}
+.Right{
+    margin-left: 4rem;
+}
+.card2{
+    border-radius: 10px;
+    width: 220px;
+    /* margin-left: 10px; */
+}
+.InformationCard{
+    border-radius: 10px;
+    width: 400px;
+    height: 33vh;
+}
+.Projects{
+    border-radius: 10px;
+    /* width: 400px; */
+    height: auto;
+}
+.info{
+    width: 283px;
+    height: 192px;
+    border-radius: 10px;
+}
